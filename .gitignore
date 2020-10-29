@@ -12,3 +12,6 @@ obj
 bin
 appsettings.json
 *.db
+
+# redis database
+*.rdb
